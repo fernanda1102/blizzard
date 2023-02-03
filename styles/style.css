@@ -1,7 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 @import url('../styles/header.css');
 
 :root {
     --cor--fundo: #020203;
+    --fonte-header-titulo: 'Poppins', sans-serif;
+    --fonte-header-texto: 'Poppins', sans-serif;
+    --fonte-header-botao: 'Poppins', sans-serif;
+    --color-header: #FFFFFF;
 }
 
 body {
