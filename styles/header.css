@@ -1,0 +1,31 @@
+  /* Imagem-Header */
+
+.cabecalho__Imagem-Header {
+    background: url(../images/Imagem-header.png);
+    position: absolute;
+    width: 1369px;
+    height: 642px;
+    left: -300px;
+    top: -20px;
+}
+
+/* Logo-Blizzard  */
+
+.Logo-Blizzard {
+    position: absolute;
+    left: 6.4%;
+    right: 75.09%;
+    top: 31px;
+    bottom: 30%;
+}
+
+/* menu-hambuguer  */
+
+.cabecalho__menu-hambuguer {
+    background-image: url(../images/menu.svg);
+    position: absolute;
+    width: 28px;
+    height: 18.67px;
+    left: 319px;
+    top: 31px;
+}
