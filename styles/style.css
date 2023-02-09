@@ -1,16 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 @import url('../styles/header.css');
-@import url('../styles/footer.css');
+@import url('../styles/banner.css');
 
 
 :root {
     --cor--fundo: #020203;
+    --cor--fundo--menu: #1E1E1E;
     --fonte-header-titulo: 'Poppins', sans-serif;
     --fonte-header-texto: 'Poppins', sans-serif;
     --fonte-header-botao: 'Poppins', sans-serif;
+    --fonte-header-menu: 'Poppins', sans-serif;
     --color-header: #FFFFFF;
+    --color-button:#00AEFF;
 }
 
 body {
