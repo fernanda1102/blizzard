@@ -1,0 +1,31 @@
+.central_1{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 250px 20px;
+}
+
+.titulo_1_central {
+    font-family: var(--fonte-header-titulo);
+    color: var(--color-header);
+    font-size: 28px;
+    width: 153px;
+    height: 62px;
+    line-height: 30.86px;
+    
+}
+
+.titulo_2_central {
+    font-family: var(--fonte-header-botao);
+    color: var(--color-button);
+    font-size: 14px;
+    line-height: 21px;
+    width: 111px;
+    height: 21px;
+    
+}
+
+.vertor-5-grupo {
+    display: flex;
+    margin: 5px 0;
+}

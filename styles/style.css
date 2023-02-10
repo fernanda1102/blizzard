@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 @import url('../styles/header.css');
 @import url('../styles/banner.css');
-
+@import url('../styles/central1.css');
 
 :root {
     --cor--fundo: #020203;
