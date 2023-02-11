@@ -5,6 +5,7 @@
 @import url('../styles/header.css');
 @import url('../styles/banner.css');
 @import url('../styles/central1.css');
+@import url('../styles/central2.css');
 
 :root {
     --cor--fundo: #020203;

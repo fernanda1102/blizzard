@@ -2,7 +2,9 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    margin: 250px 20px;
+    margin: 280px 20px;
+    width: 375px;
+    height: 40px;
 }
 
 .titulo_1_central {
@@ -29,3 +31,10 @@
     display: flex;
     margin: 5px 0;
 }
+
+.container-jogos {
+    display: flex;
+    justify-content: space-around;
+    top: -340px;
+    gap: 5px 5px;
+}   
