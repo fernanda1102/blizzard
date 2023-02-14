@@ -35,9 +35,9 @@
 }
 
 .cabeçalho__menu-hamburguer {
-    background-image: url("../images/menu.svg");
     width: 30px;
     height: 18.67px;
+    
 }
 
 .header-sup-container {
@@ -54,6 +54,7 @@
 
 .container__botao:checked ~ .lista-menu {
     display: block;
+    z-index: 1;
 }
 
 .lista__menu__item,

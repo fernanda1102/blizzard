@@ -1,0 +1,14 @@
+.container-jogos {
+    display: flex;
+    justify-content: space-around;
+    top: -340px;
+    gap: 10px 10px;
+} 
+
+.jogos-container {
+    display: grid;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    gap: 10px;
+}
