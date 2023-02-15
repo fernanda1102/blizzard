@@ -1,0 +1,32 @@
+/* BG-footer */
+
+.image-footer-container{
+    background-image: url(../images/bg-footer.png);
+    width: 380px ;
+    height: 590px;
+    margin-top: 3em;
+}
+
+/* Imagem-footer */
+
+.image-logo-battlenet{
+   margin: -20% 7%;
+   position: relative;
+   width:160px;
+   height:20px;
+}
+
+/* Conteúdo-footer */
+
+.titulo-footer {
+    font-family: var(--fonte-header-titulo);
+    color: var(--color-header);
+    font-size: 28px;
+    width: 277px;
+    margin: 150px 30px;
+}
+
+
+
+
+
