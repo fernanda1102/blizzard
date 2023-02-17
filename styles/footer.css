@@ -2,8 +2,8 @@
 
 .image-footer-container{
     background-image: url(../images/bg-footer.png);
-    width: 380px ;
-    height: 590px;
+    width: 375px ;
+    height: 1090px;
     margin-top: 3em;
 }
 
@@ -38,6 +38,7 @@
 .texto-footer-2{
     font-family: var(--fonte-header-texto);
     color: var(--color-header);
+    font-size: 18px;
     margin-left: -4em;
 }
 
@@ -54,6 +55,7 @@
 .texto-footer-3 {
     font-family: var(--fonte-header-texto);
     color: var(--color-header);
+    font-size: 18px;
     margin-left: -2.5em;
 }
 
@@ -70,25 +72,79 @@
 .texto-footer-4 {
     font-family: var(--fonte-header-texto);
     color: var(--color-header);
+    font-size: 18px;
     margin-left: -2.5em;
 }
 
 /* Botão-footer */
 
-.conteudo-footer-container_4{
+.botao-footer-container{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin-left: -2.3em;
+    margin: 3em 7em 0 1.5em;
+    text-align: center;
+    position: relative;
+    padding: 10px 8px;
+    top: 10px;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: var( --color-button);
+    background-image: linear-gradient(to top left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, 0.6), inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+}
+
+.botton-footer {
+    font-family: var(--fonte-header-botao);
+    color: var(--color-header);
+    font-size: 16px;
+    margin-left: -1em;
+}
+
+/* Conteúdo-footer-5 */
+
+.conteudo-footer-container_5{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 240px;
+    margin-left: 1.5em;
     margin-top: 3em;
 }
 
-.texto-footer-4 {
+.texto-footer-5 {
     font-family: var(--fonte-header-texto);
     color: var(--color-header);
-    margin-left: -2.5em;
+    font-size: 14px;
+    margin-left: 2em;
+    line-height: 21px;
 }
 
+/* Imagem-final-footer */
+.imagem-interface-back {
+    position: relative;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.imagem-interface----front {
+    position: absolute;
+    bottom: -2660px;
+    left: 50px;
+    
+}
+
+/* Final-footer */
+
+.final-footer {
+    font-family: var(--fonte-header-texto);
+    color: var(--color-header);
+    font-size: 14px;
+    margin-left: 2em;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 21px;
+}
 
 
 
