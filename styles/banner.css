@@ -1,5 +1,5 @@
 /* Titulo */
-.cabecalho__titulo {
+.cabecalho__titulo{
     font-family: var(--fonte-header-titulo);
     color: var(--color-header);
     position: absolute;
